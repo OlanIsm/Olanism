@@ -8,7 +8,7 @@ Backend Engineer • Software Engineering Student
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=FFAE42&center=true&vCenter=true&width=750&lines=Backend+Engineer;Software+Engineering+Student;NestJS+Developer;Building+Scalable+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=400&color=FFAE42&center=true&vCenter=true&width=850&lines=Backend+Engineer;Software+Engineering+Student;NestJS+Developer;Clean+Architecture+Enthusiast"/>
 
 </p>
 
