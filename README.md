@@ -1,3 +1,11 @@
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+</p>
+
+---
+
 <h1 align="center">
 Hi 👋 I'm Insan Maulana
 </h1>
@@ -9,14 +17,6 @@ Backend Engineer • Software Engineering Student • Mobile Developer
 <p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Engineer;Software+Engineering+Student;NestJS+Developer;React+Native+Developer;Always+Learning+New+Things"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </p>
 
