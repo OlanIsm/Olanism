@@ -22,24 +22,21 @@ Backend Engineer • Software Engineering Student • Mobile Developer
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 Computer Science Student at **BINUS University**
+Computer Science Student at **BINUS University**
 
-📚 Software Engineering Major
+Software Engineering Major
 
-📈 GPA **3.77 / 4.00**
+GPA **3.77 / 4.00**
 
-💻 Interested in
+Interested in
 
 - Backend Development
 - Software Architecture
 - Mobile Development
 - AI-powered Applications
 - Clean Code & Design Patterns
-
-🏆 Technoscape 9.0 Hackathon Finalist
-
 ---
 
 ## 🛠 Tech Stack
@@ -75,30 +72,6 @@ Backend Engineer • Software Engineering Student • Mobile Developer
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-### 🤖 Electus ATS
-
-AI-powered Applicant Tracking System
-
-- Semantic Search
-- RAG Pipeline
-- PostgreSQL + pgvector
-- Local LLM (Ollama)
-- NestJS Microservices
-
----
-
-### 📦 VolumeMate
-
-Cooperative Procurement Platform
-
-- Collective Buying
-- Audit Logging
-- Demand Forecasting
-- Supplier Recommendation
-
 **Tech Stack**
 
 React Native • NestJS • FastAPI • PostgreSQL
@@ -113,32 +86,6 @@ Interactive 3D Portfolio Website
 - React
 - Framer Motion
 - Custom Animations
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OlanIsm&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlanIsm&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=OlanIsm&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-
 ---
 
 ## 🌐 Connect with Me
