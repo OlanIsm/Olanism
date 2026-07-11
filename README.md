@@ -22,7 +22,7 @@ Backend Engineer • Software Engineering Student • Mobile Developer
 
 ---
 
-## About Me
+##About Me
 
 Computer Science Student at **BINUS University**
 
@@ -39,7 +39,7 @@ Interested in
 - Clean Code & Design Patterns
 ---
 
-## 🛠 Tech Stack
+##Tech Stack
 
 ### Languages
 
@@ -88,7 +88,7 @@ Interactive 3D Portfolio Website
 - Custom Animations
 ---
 
-## 🌐 Connect with Me
+##Connect with Me
 
 <p>
 
