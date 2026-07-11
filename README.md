@@ -14,7 +14,7 @@ Backend Engineer • Software Engineering Student
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
 
-## About Me
+##   About Me
 
 Computer Science Student at **BINUS University**
 
@@ -69,7 +69,7 @@ React Native • NestJS • FastAPI • PostgreSQL
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
 
-### 🌌 Olan.Dev
+###  🌌 Olan.Dev
 
 Interactive 3D Portfolio Website
 
@@ -80,7 +80,7 @@ Interactive 3D Portfolio Website
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
 
-## Connect with Me
+##  Connect with Me
 
 <p>
 
