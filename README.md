@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2B1D1D,30:EC1E4D,65:FFAE42,100:B30000&text=Hi,%20I'm%20Insan%20Maulana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
 
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
