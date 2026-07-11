@@ -31,7 +31,7 @@ Interested in
 - Clean Code & Design Patterns
 <img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
 
-## 🛠 Tech Stack
+##   Tech Stack
 
 ### Languages
 
