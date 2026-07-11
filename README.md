@@ -63,9 +63,6 @@ Interested in
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
-**Tech Stack**
-
-React Native • NestJS • FastAPI • PostgreSQL
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
 
