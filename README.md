@@ -1,8 +1,4 @@
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2B1D1D,30:EC1E4D,65:FFAE42,100:B30000&text=Hi,%20I'm%20Insan%20Maulana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ---
 
