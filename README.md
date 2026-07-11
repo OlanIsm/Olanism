@@ -2,13 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
 
-<h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-Hi, I'm Insan Maulana
-</h1>
-
 <h3 align="center">
-Backend Engineer • Software Engineering Student • Mobile Developer
+Backend Engineer • Software Engineering Student
 </h3>
 
 <p align="center">
@@ -17,7 +12,7 @@ Backend Engineer • Software Engineering Student • Mobile Developer
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
 
 ##About Me
 
