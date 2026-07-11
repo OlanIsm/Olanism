@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2B1D1D,30:EC1E4D,65:FFAE42,100:B30000&text=Hi,%20I'm%20Insan%20Maulana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2B1D1D,50:EC1E4D,100:FFAE42"/>
 
 <h3 align="center">
 Backend Engineer • Software Engineering Student
@@ -12,7 +12,7 @@ Backend Engineer • Software Engineering Student
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2B1D1D,50:EC1E4D,100:FFAE42"/>
 
 ##   About Me
 
@@ -29,8 +29,7 @@ Interested in
 - Mobile Development
 - AI-powered Applications
 - Clean Code & Design Patterns
-<img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2B1D1D,50:EC1E4D,100:FFAE42"/>
 ##   Tech Stack
 
 ### Languages
@@ -62,10 +61,7 @@ Interested in
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2B1D1D,50:EC1E4D,100:FFAE42"/>
 ###  🌌 Olan.Dev
 
 Interactive 3D Portfolio Website
@@ -75,7 +71,7 @@ Interactive 3D Portfolio Website
 - Framer Motion
 - Custom Animations
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2B1D1D,50:EC1E4D,100:FFAE42"/>
 
 ##  Connect with Me
 
@@ -95,7 +91,7 @@ Interactive 3D Portfolio Website
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-714d0f5b-0fdc-4b06-b5df-54d07b84b8cf.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2B1D1D,50:EC1E4D,100:FFAE42"/>
 
 <p align="center">
 <i>"Software engineering isn't just about making things work — it's about making them maintainable."</i>
