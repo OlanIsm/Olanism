@@ -15,7 +15,6 @@ Backend Engineer • Software Engineering Student
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2B1D1D,50:EC1E4D,100:FFAE42"/>
 
 ##   About Me
-
 Computer Science Student at **BINUS University**
 
 Software Engineering Major
