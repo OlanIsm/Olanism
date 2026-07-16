@@ -28,7 +28,7 @@ Interested in
 - Mobile Development
 - AI-powered Applications
 - Clean Code & Design Patterns
-- 
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2B1D1D,50:EC1E4D,100:FFAE42"/>
 
 ##  Tech Stack
