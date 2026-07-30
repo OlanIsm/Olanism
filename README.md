@@ -100,3 +100,5 @@ Interactive 3D Portfolio Website
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:2B1D1D,30:EC1E4D,65:FFAE42,100:B30000"/>
+
+![Metrics](./metrics.svg)
