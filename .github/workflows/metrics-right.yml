@@ -22,8 +22,16 @@ jobs:
 
           base: ""
 
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 30
+          plugin_calendar: yes
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: detailed
 
           config_timezone: Asia/Jakarta
