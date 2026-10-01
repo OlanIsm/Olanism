@@ -2,11 +2,11 @@
 <p align="center">
   <strong>But you can call me Olan.</strong>
 </p>
-<p>
+<p align="center">
 I'm a fifth-semester Computer Science student at BINUS University with a strong passion for software engineering. I enjoy building scalable applications, designing clean software architecture, and creating products that solve real-world problems.
 </p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,express,nestjs,nodejs,typescript,python,vite,docker,postgres,git,figma" />
 </p>
 
