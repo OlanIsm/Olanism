@@ -7,8 +7,9 @@ I'm a fifth-semester Computer Science student at BINUS University with a strong 
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,flutter,tailwind,docker,postgres,mysql,firebase,git,github,vscode,figma,androidstudio" />
-<img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,express,nestjs,nodejs,vite,docker,postgres,git,figma" />
+  <img src="https://img.shields.io/badge/Orca-111827?style=flat-square&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
