@@ -7,8 +7,7 @@ I'm a fifth-semester Computer Science student at BINUS University with a strong 
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,express,nestjs,nodejs,vite,docker,postgres,git,figma" />
-  <img height="28" src="https://api.iconify.design/simple-icons:openai.svg?color=white" />
+  <img src="https://skillicons.dev/icons?i=react,express,nestjs,nodejs,typescript,python,vite,docker,postgres,git,figma" />
 </p>
 ---
 
