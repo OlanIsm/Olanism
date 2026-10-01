@@ -9,7 +9,6 @@ I'm a fifth-semester Computer Science student at BINUS University with a strong 
 <p>
   <img src="https://skillicons.dev/icons?i=react,express,nestjs,nodejs,typescript,python,vite,docker,postgres,git,figma" />
 </p>
----
 
 <table>
 <tr>
