@@ -8,8 +8,10 @@ I'm a fifth-semester Computer Science student at BINUS University with a strong 
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,express,nestjs,nodejs,vite,docker,postgres,git,figma" />
-  <img src="https://img.shields.io/badge/Orca-111827?style=flat-square&logo=terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Orca-111827?style=flat-square&logo=gnubash&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=githubcopilot&logoColor=white" />
 </p>
 
 ---
