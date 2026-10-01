@@ -6,14 +6,10 @@
 I'm a fifth-semester Computer Science student at BINUS University with a strong passion for software engineering. I enjoy building scalable applications, designing clean software architecture, and creating products that solve real-world problems.
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,express,nestjs,nodejs,vite,docker,postgres,git,figma" />
-
-  <img src="https://img.shields.io/badge/Orca-111827?style=flat-square&logo=gnubash&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=githubcopilot&logoColor=white" />
-</p>
-
+<span>
+  <img height="28" src="https://api.iconify.design/simple-icons:openai.svg?color=white" />
+  <b> Codex</b>
+</span>
 ---
 
 <table>
